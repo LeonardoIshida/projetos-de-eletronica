@@ -139,7 +139,7 @@ void loop() {
 ````
 ## Circuito no [TinkerCad](https://www.tinkercad.com/)
 
-> Representação simulativa/ilustrativa do nosso trabalho
+> Representação ilustrativa/simulativa do nosso trabalho
 <p align="center">
 	<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/tinkercard%20certo.png?raw=true" width="600">
 </p>
