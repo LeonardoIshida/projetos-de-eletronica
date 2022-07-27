@@ -17,5 +17,5 @@
 
 - Miguel Bragante Henriques - 13671894
 
-> Projetos orientados pelo Professor [Eduardo do Valle Simões](https://gitlab.com/simoesusp)
+> Projeto orientado pelo professor [Eduardo do Valle Simões](https://gitlab.com/simoesusp), da disciplina de Eletrônica para Computação (SSC0180)
 
