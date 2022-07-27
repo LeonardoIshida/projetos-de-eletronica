@@ -51,7 +51,7 @@ Regulam a tensão e corrente que passam pelo leds
 > Funciona com 2.5 V
 
 
-## Circuito no [TinkerCad](https://www.tinkercad.com/)
+## Circuito no [TinkerCad](https://www.tinkercad.com/things/4VcPaSbOPCH)
 
 > Representação ilustrativa/simulativa do nosso trabalho
 <p align="center">
