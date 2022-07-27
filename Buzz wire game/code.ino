@@ -1,13 +1,14 @@
-int led = 13; 
-int ledtimer = 8;
+int ledfim = 13; //led do fim do circuito (vermelho)
+int ledtimer = 8; //led de tempo, indica que o jogo esta ativo (verde)
 int piezo = 10;
-int inputPin = 2; 
+int inputPin = 2; //circuito do jogo, funciona como um botao
 int inputStatus = 0; 
-int botaoInicio = 7;
+int botaoInicio = 7; //botao de inicio do jogo
 int statusInicio = 0;
  
 void setup() {
-  pinMode(led, OUTPUT); 
+  /*configurando como entrada ou saida*/
+  pinMode(ledfim, OUTPUT); 
   pinMode(ledtimer, OUTPUT);
   pinMode(piezo, OUTPUT);
   pinMode(inputPin, INPUT_PULLUP); 
@@ -15,25 +16,28 @@ void setup() {
 }
 
 void loop() {
-  
-  digitalWrite(led, LOW);
+
+  /*inicializando o led de fim e o piezo buzzer como low (desligados)*/
+  digitalWrite(ledfim, LOW);
   digitalWrite(piezo, LOW);
   
+  /*loop ate que o botao de inicio seja ativado*/
   statusInicio = digitalRead(botaoInicio);
-  
   while(statusInicio == 1){
     if(statusInicio == 0){
       break;
     }
      statusInicio = digitalRead(botaoInicio);
   }
-  
-  inputStatus = digitalRead(inputPin); 
-  
-  int contador = 0;
-  
+
+  digitalWrite(ledtimer, HIGH); //led de timer ligado
+
+  int contador = 0; 
+
+  inputStatus = digitalRead(inputPin); //status do jogo
+
+  /*loop ate que o circuito do jogo seja fechado (derrota) ou ate que o tempo termine (1 minuto)*/
   while((inputStatus == 1) && (contador<60000)){
-    digitalWrite(ledtimer, HIGH);
     inputStatus = digitalRead(inputPin);
     if(inputStatus == 0){
       break;
@@ -47,8 +51,9 @@ void loop() {
     inputStatus = digitalRead(inputPin);
   }
 
+  /*fim do jogo, led verde apaga, led vermelho acende, piezo apita*/
   digitalWrite(ledtimer, LOW);
-  digitalWrite(led, HIGH);
+  digitalWrite(ledfim, HIGH);
   tone(piezo, 262, 3000);
   delay(3000);
 }
