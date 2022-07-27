@@ -2,14 +2,7 @@
 
 ## Descrição
 
-Um projeto orientado pelo professor [Eduardo do Valle Simões](https://gitlab.com/simoesusp), da disciplina de Eletrônica para Computação (SSC0180)
-
-## Participantes
-
-- Isaac Harim - 13673235
-- Leonardo Ishida - 12873424
-- Luiz Felipe Diniz Costa - 13782032
-- Miguel Bragante Henriques - 13671894
+Trata-se de uma fonte com tensão variável de 3 a 12 Volts.
 
 ## Componentes e cálculos
 
