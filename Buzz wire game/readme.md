@@ -1,10 +1,3 @@
-<p align="center">
-<a href="https://www.icmc.usp.br/">
-<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Fonte-tensao/readmeImagens/icmcLogo.png?raw=true" alt="Instituto de Ciências Matemáticas e de Computação" width="150"/>
-</a>
-</br>
-</p>
-
 # Buzz Wire Game
 <p align="center">
 <img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/buzzwire.png?raw=true" width="100%"/>
