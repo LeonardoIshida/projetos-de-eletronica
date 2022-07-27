@@ -34,15 +34,27 @@ https://user-images.githubusercontent.com/61145881/181147885-f7c14fca-9485-4f05-
 
 Usado para iniciar o temporizador do jogo.
 
+<p align="center">
+	<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/bot%C3%A3o.png?raw=true" width="400">
+</p>
+
 ### Led
 
 O led-verde funciona como temporizador, que quando acionado contabiliza o tempo em 1 minuto. Quando o tempo acaba ou contato há contato do handle com o circuito, o led-verde é apagado e o led-vermelho é acionado, indicando “Game Over”. 
 
 > Funcionam com 1.89 V
 
+<p align="center">
+	<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/leds.png?raw=true" width="400">
+</p>
+
 ### Resistor 
 
 Regulam a tensão e corrente que passam pelo leds e pelo botão
+
+<p align="center">
+	<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/resistor.png?raw=true" width="400">
+</p>
 
 ### Piezo
 
@@ -50,12 +62,15 @@ Regulam a tensão e corrente que passam pelo leds e pelo botão
 
 > Funciona com 2.5 V
 
+<p align="center">
+	<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/piezo.png?raw=true" width="400">
+</p>
 
 ## Circuito no [TinkerCad](https://www.tinkercad.com/things/4VcPaSbOPCH)
 
 > Representação ilustrativa/simulativa do nosso trabalho
 <p align="center">
-	<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/tinker.png?raw=true" width="600">
+	<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/tinker.png?raw=true" width="100%">
 </p>
 
 ## Projeto Final
