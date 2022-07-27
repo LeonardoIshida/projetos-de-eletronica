@@ -7,7 +7,7 @@
 
 # Buzz Wire Game
 <p align="center">
-<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/buzzwire.png?raw=true" width="100%"/>
+<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/buzz-wire.png?raw=true" width="100%"/>
 </p>
 
 
@@ -149,6 +149,13 @@ void loop() {
   tone(piezo, 262, 3000);
   delay(3000);
 }
-
-
 ````
+## Circuito no [TinkerCad](https://www.tinkercad.com/)
+
+> Representação simulativa/ilustrativa do nosso trabalho
+<p align="center">
+	<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/tinkercard%20certo.png?raw=true" width="600">
+</p>
+## Circuito no [TinkerCad](https://www.tinkercad.com/)
+
+
