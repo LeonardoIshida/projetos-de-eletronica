@@ -33,31 +33,31 @@ Um projeto orientado pelo professor [Eduardo do Valle Simões](https://gitlab.co
 			<td><strong>VALORES (R$)</strong></td>
 		</tr>
 		<tr>
-			<td>2x</td>
+			<td>(2 unidades)</td>
 		</tr>
 		<tr>
-			<td>2x</td>
+			<td>(2 unidades)</td>
 		</tr>
 		<tr>
-			<td>3x</td>
+			<td>(3 unidades)</td>
 		</tr>
 		<tr>
-			<td>1x</td>
+			<td>(1 unidade)</td>
 		</tr>
 		<tr>
-			<td>2m</td>
+			<td>(2 metros)</td>
 		</tr>
 		<tr>
-			<td>1x</td>
+			<td>(1 unidade)</td>
 		</tr>
 		<tr>
-			<td>1x</td>
+			<td>(1 unidade)</td>
 		</tr>
 		<tr>
-			<td>1x</td>
+			<td>(1 unidade)</td>
 		</tr>
     <tr>
-			<td>1x</td>
+			<td>(1 unidade)</td>
 		</tr>
 		<tr>
 			<td>TOTAL:   -
