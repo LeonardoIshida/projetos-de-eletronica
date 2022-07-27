@@ -14,7 +14,7 @@ Utilizando arduino, trata-se de um jogo tipo “buzz-wire”, onde o objetivo é
 
 https://user-images.githubusercontent.com/61145881/181147885-f7c14fca-9485-4f05-ac1f-be45bcfc5217.mp4
 
-## Componentes e Código
+## Componentes
 
 <p>
 <h3>Peças utilizadas</h3>
@@ -29,6 +29,27 @@ https://user-images.githubusercontent.com/61145881/181147885-f7c14fca-9485-4f05-
 - Protoboard
 - Jumper
 </p>
+
+### Botão
+
+Usado para iniciar o temporizador do jogo.
+
+### Led
+
+O led-verde funciona como temporizador, que quando acionado contabiliza o tempo em 1 minuto. Quando o tempo acaba ou contato há contato do handle com o circuito, o led-verde é apagado e o led-vermelho é acionado, indicando “Game Over”. 
+
+> Funcionam com 1.89 V
+
+### Resistor 
+
+Regulam a tensão e corrente que passam pelo leds
+
+### Piezo
+
+É acionado quando o jogador perde, emitindo um som. 
+
+> Funciona com 2.5 V
+
 
 ## Circuito no [TinkerCad](https://www.tinkercad.com/)
 
