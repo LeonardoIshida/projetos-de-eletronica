@@ -90,15 +90,15 @@ Cálculo da tensão de pico e cálculo da tensão transformada
 	<tbody>
 		<tr>
 			<td>Vpico = Vrms * √2</td>
-			<td>Ven/Vtr = (N1 / N2)</td>
+			<td>Vin/Vout = (N1 / N2)</td>
 		</tr>
 		<tr>
 			<td>Vpico = 127V* √2</td>
-			<td>179/Vtr = 9,5</td>
+			<td>179/Vout = 9,5</td>
 		</tr>
 		<tr>
 			<td>Vpico = 179,60V.</td>
-			<td>Vtr = 18,84V</td>
+			<td>Vout = 18,84V</td>
 		</tr>
 	</tbody>
 </table>
