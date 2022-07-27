@@ -1,4 +1,3 @@
-
 int led = 13; 
 int ledtimer = 8;
 int piezo = 10;
