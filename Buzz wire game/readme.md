@@ -57,3 +57,10 @@ Regulam a tensão e corrente que passam pelo leds
 <p align="center">
 	<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/tinker.png?raw=true" width="600">
 </p>
+
+## Projeto Final
+
+<p align="center">
+	<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/projetoFinal.png?raw=true" width="100%">
+</p>
+
