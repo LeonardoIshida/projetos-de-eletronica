@@ -1,9 +1,0 @@
-2x Leds
-2x Resistores 2.2k
-3x Resistores 1k
-1x Piezo
-2m de arame
-1x Botão
-1x Arduino Uno
-1x Protoboard
-Jumper
