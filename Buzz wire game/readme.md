@@ -34,5 +34,5 @@ https://user-images.githubusercontent.com/61145881/181147885-f7c14fca-9485-4f05-
 
 > Representação ilustrativa/simulativa do nosso trabalho
 <p align="center">
-	<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/tinkercard.png?raw=true" width="600">
+	<img src="https://github.com/zLeonardoIshida/projetos-de-eletronica/blob/main/Buzz%20wire%20game/readmeImagens/tinker.png?raw=true" width="600">
 </p>
