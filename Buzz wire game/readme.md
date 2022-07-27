@@ -42,7 +42,7 @@ O led-verde funciona como temporizador, que quando acionado contabiliza o tempo 
 
 ### Resistor 
 
-Regulam a tensão e corrente que passam pelo leds
+Regulam a tensão e corrente que passam pelo leds e pelo botão
 
 ### Piezo
 
