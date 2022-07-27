@@ -7,8 +7,6 @@
 ## Descrição
 Utilizando arduino, trata-se de um jogo tipo “buzz-wire”, onde o objetivo é passar pelo cabo do circuito sem encostar o aro.
 
-> Projeto orientado pelo professor [Eduardo do Valle Simões](https://gitlab.com/simoesusp), da disciplina de Eletrônica para Computação (SSC0180)
-
 ## Vídeo Explicativo
 <h3 align="right">
 <a href="https://drive.google.com/file/d/1Mgwv2865F-z5Zhn0NR2PEK3a6nh91COc/view" target="_blank">Vídeo em alta qualidade</a>
