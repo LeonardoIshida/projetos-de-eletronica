@@ -5,15 +5,16 @@
 
 
 ## Descrição
+Utilizando arduino, trata-se de um jogo tipo “buzz-wire”, onde o objetivo é passar pelo cabo do circuito sem encostar o aro.
 
-Um projeto orientado pelo professor [Eduardo do Valle Simões](https://gitlab.com/simoesusp), da disciplina de Eletrônica para Computação (SSC0180)
+> Projeto orientado pelo professor [Eduardo do Valle Simões](https://gitlab.com/simoesusp), da disciplina de Eletrônica para Computação (SSC0180)
 
-## Participantes
+## Vídeo Explicativo
+<h3 align="right">
+<a href="https://drive.google.com/file/d/1Mgwv2865F-z5Zhn0NR2PEK3a6nh91COc/view" target="_blank">Vídeo em alta qualidade</a>
+</h3>
 
-- Isaac Harim - 13673235
-- Leonardo Ishida - 12873424
-- Luiz Felipe Diniz Costa - 13782032
-- Miguel Bragante Henriques - 13671894
+https://user-images.githubusercontent.com/61145881/181147885-f7c14fca-9485-4f05-ac1f-be45bcfc5217.mp4
 
 ## Componentes e Código
 
@@ -77,14 +78,7 @@ Um projeto orientado pelo professor [Eduardo do Valle Simões](https://gitlab.co
 </br>
 </p>
 
-<h3 align="right">
-<a href="https://drive.google.com/file/d/1Mgwv2865F-z5Zhn0NR2PEK3a6nh91COc/view" target="_blank">Vídeo em alta qualidade</a>
-</h3>
-
-
-
-
-https://user-images.githubusercontent.com/61145881/181147885-f7c14fca-9485-4f05-ac1f-be45bcfc5217.mp4
+## Código
 
 ````ino
 
