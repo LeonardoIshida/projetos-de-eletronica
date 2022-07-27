@@ -38,10 +38,6 @@ void loop() {
 
   /*loop ate que o circuito do jogo seja fechado (derrota) ou ate que o tempo termine (1 minuto)*/
   while((inputStatus == 1) && (contador<60000)){
-    inputStatus = digitalRead(inputPin);
-    if(inputStatus == 0){
-      break;
-    }
     delay(1);
     inputStatus = digitalRead(inputPin);
     if(inputStatus == 0){
