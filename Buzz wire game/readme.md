@@ -5,7 +5,7 @@
 
 
 ## Descrição
-Utilizando arduino, trata-se de um jogo tipo “buzz-wire”, onde o objetivo é passar pelo cabo do circuito sem encostar o aro.
+Utilizando arduino, trata-se de um jogo tipo “buzz-wire”, onde o objetivo é passar pelo cabo do circuito sem encostar no aro.
 
 ## Vídeo Explicativo
 <h3 align="right">
